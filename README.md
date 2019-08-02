@@ -31,7 +31,7 @@ dislikes-no of dislikes<br>
 comment_count-no of comment<br>
 
 ## Getting Started
-Start by downloading the project and run "YoutubeCategoryPredicition.ipynb" file in ipython-notebook.
+Start by downloading the project and run "Youtube-Like-View-&-comment-count-Prediction.ipynb" file in ipython-notebook.
 
 ## Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
